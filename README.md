@@ -8,5 +8,5 @@ A theme for chromium browsers inspired by the looks and feel of HackTheBox
 * Go to ``` chrome://extensions ``` for chrome. or ``` brave://extensions ``` or ``` edge://extensions ``` for your respective browser.
 * Enable developer mode
 * Click on 'Load Unpacked'
-* Select the folder that you've got from this repository.
+* Select the folder ``` HackTheBox Theme ``` that you've got from this repository.
 * Enjoy and give a star. :green_heart: :green_heart: :green_heart:
